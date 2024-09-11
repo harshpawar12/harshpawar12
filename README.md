@@ -25,8 +25,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpawar12&repo=Inventory_Management_System&theme=tokyonight" alt="Inventory Management System" width="45%" />
   </a>
    <a href="https://github.com/harshpawar12/ResortBookingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpawar12&repo=Inventory_Management_System&theme=tokyonight" alt="Inventory Management System" width="45%" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpawar12&repo=ResortBookingSystem&theme=tokyonight" alt="Resort Booking System" width="45%" />
+</a>
+
 </p>
 
 <!-- About Section with Black Background and Responsive Design -->
