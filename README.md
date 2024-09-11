@@ -6,7 +6,7 @@
 <!-- Title -->
 <h1 align="center">👋 Hi, I'm Harshvardhan Pawar</h1>
 <p align="center">
-  <b>Full-Stack Java Developer</b> | Crafting scalable web applications with a passion for coding and learning.
+  <b>Full-Stack Java Developer</b> |passion for coding and learning.
 </p>
 
 
@@ -24,7 +24,7 @@
   <a href="https://github.com/harshpawar12/Inventory_Management_System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpawar12&repo=Inventory_Management_System&theme=tokyonight" alt="Inventory Management System" width="45%" />
   </a>
-   <a href="https://github.com/harshpawar12/Resort_Management_System">
+   <a href="https://github.com/harshpawar12/ResortBookingSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshpawar12&repo=Inventory_Management_System&theme=tokyonight" alt="Inventory Management System" width="45%" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 <div align="center" style="background-color: black; color: white; padding: 20px; border-radius: 10px; max-width: 800px; margin: auto;">
   <ul style="list-style: none; padding: 0; text-align: center; font-size: 18px;">
     <li>🔭 I’m currently working on: <b>Full-stack Java Projects</b></li>
-    <li>🌱 I’m learning: <b>Java, Microservices</b></li>
+    <li>🌱 I’m learning: <b>Java FullStack Developer</b></li>
     <li>💬 Ask me about: <b>Java, Spring Boot, HTML, CSS, JavaScript</b></li>
   </ul>
 </div>
@@ -43,7 +43,7 @@
 <!-- Social Links Section -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshpawar12" target="_blank">
+  <a href="https://www.linkedin.com/in/harshad-pawar-56106b305/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
