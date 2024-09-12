@@ -8,26 +8,6 @@
 <p align="center">
   <b>Full-Stack Java Developer</b> |passion for coding and learning.
 </p>
-
-<div align="center">
-
-## 🛠️ Technical Skills
-
-### Languages & Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)
-
-### Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
-
-</div>
-
-
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
